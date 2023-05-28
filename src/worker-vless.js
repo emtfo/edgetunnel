@@ -1,6 +1,6 @@
 import { connect } from 'cloudflare:sockets';
 
-const userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
+const userID = '00c070df-467c-4242-8ed0-e4155579cf3c';
 
 // 1. 如果这个你不填写，并且你客户端的 IP 不是 China IP，那么就自动取你的客户端IP。有一定概率会失败。
 // 2. 如果你指定，忽略一切条件，用你指定的IP。
